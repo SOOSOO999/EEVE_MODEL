@@ -1,6 +1,6 @@
 # 🎮 EEVE 공감력 배틀 - 감정 추론 게임
 
-EEVE 공감력 배틀은 **사용자와 EEVE 모델이 번갈아 문장을 내고 감정을 맞히며 겨루는 감정 추론 게임**입니다.  
+본 게임은 **사용자와 EEVE 모델이 번갈아 문장을 내고 감정을 맞히며 겨루는 감정 추론 게임**입니다.  
 자신의 공감 능력을 테스트해 볼 수 있습니다.
 
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square)
@@ -10,8 +10,7 @@ EEVE 공감력 배틀은 **사용자와 EEVE 모델이 번갈아 문장을 내�
 
 ## 🧠 사용 모델
 
-- **EEVE-Korean-10.8B** (로컬 Ollama 서버를 통해 문장 생성)
-- 감정 분류는 랜덤 추정으로 대체되어 있으며, 실제 감정 분석 모델로 쉽게 교체 가능
+- **EEVE-Korean-10.8B** 
 
 ---
 
